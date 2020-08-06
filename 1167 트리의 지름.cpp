@@ -53,10 +53,6 @@ int fmaxH(int curr) {
 
 }
 
-void setMaxD(int v) {
-
-}
-
 
 int main() {
 	ios_base::sync_with_stdio(false);
